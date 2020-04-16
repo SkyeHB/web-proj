@@ -118,7 +118,7 @@ hr {
 }
 
  /*Mobile Phones*/
-  @media only screen and (max-width: 992px) 
+  @media only screen and (max-width: 900px) 
   { 
   .top
   {
@@ -128,7 +128,7 @@ hr {
   #logo
   {
     padding-top: 2%;
-    padding-left: 13%;
+    padding-left: 18%;
   }
   #desc
   {
@@ -139,7 +139,7 @@ hr {
   #descimg
   {
     float: left;
-    padding-left: 25%;
+    padding-left: 35%;
     height: 110%;
     width: 110%;
   }
@@ -165,13 +165,13 @@ hr {
   .items
   {
     width:44%;
-    height: 590px;
+    height: 700px;
     padding: 0%;
   }
   #products
   {
     width: 95%;
-    height: 95%;
+    height: 100%;
     padding-bottom: 40%;
   }
   .form
