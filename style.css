@@ -115,7 +115,4 @@ hr {
   text-align: center;
   font-family: 'Courier New', Courier, monospace, monospace;
   overflow: auto;
-  
-[class*="col-"] {
-  width: 100%;
 }
