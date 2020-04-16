@@ -1,7 +1,7 @@
 var products = [
   {
     prodName: '512kb USB stick',
-    description: 'a very tiny usb stick, with two episodes of Friends on it',
+    description: 'a very tiny usb stick, with two episodes of Friends recorded in 144p',
     price: '$2.99',
     category: 'Under5',
     prodURL: 'images/512kbUSB.png'
