@@ -116,6 +116,6 @@ hr {
   font-family: 'Courier New', Courier, monospace, monospace;
   overflow: auto;
   
-@media screen and (min-width:320px) and (max-width:640px) {
-  background-color: black;
-} 
+[class*="col-"] {
+  width: 100%;
+}
