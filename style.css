@@ -116,11 +116,6 @@ hr {
   font-family: 'Courier New', Courier, monospace, monospace;
   overflow: auto;
   
-@media only screen and (max-width: 600px) 
-{
-  body 
-  {
-    background-color: lightblue;
-  }
-}
-}
+@media screen and (min-width:320px) and (max-width:640px) {
+  background-color: black;
+} 
